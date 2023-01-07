@@ -1,0 +1,4 @@
+baseURL = 'http://kreeves.github.io/'
+languageCode = 'en-us'
+title = 'Words by Kyle'
+theme = 'ananke'
